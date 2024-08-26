@@ -1,5 +1,14 @@
 #### Simulation and analysis for eye color project
 
+
+#### uncomment these two line of code between the stars to install the packages. If you do not need to install the packages, run the script as written.
+#### ****
+
+#install.packages("tidyverse")  
+#install.packages("ggthemes") 
+
+#### ****
+
 set.seed(428)
 
 library(tidyverse)
